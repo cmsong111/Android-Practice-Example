@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project4_2</string>
+    <string name="selection_start">선택을 시작하시겠습니까?</string>
+    <string name="start">시작함</string>
+    <string name="animal_select">좋아하는 동물은?</string>
+    <string name="dog">강아지</string>
+    <string name="cat">고양이</string>
+    <string name="rabbit">토끼</string>
+    <string name="ok">선택 완료</string>
+    <string name="image_space">이미지 영역</string>
+</resources>
+
