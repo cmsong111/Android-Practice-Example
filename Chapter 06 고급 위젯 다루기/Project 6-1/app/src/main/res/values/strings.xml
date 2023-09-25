@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practice_6–1</string>
+    <string name="reservation_start">예약 시작</string>
+    <string name="reservation_done">예약 완료</string>
+    <string name="reservation_time">예약에 걸린 시간 %s</string>
+
+    <string name="time_picker">시간 설정</string>
+    <string name="date_picker">날짜 설정(캘린더 뷰)</string>
+
+    <string name="year">년</string>
+    <string name="month">월</string>
+    <string name="day">일</string>
+    <string name="hour">시</string>
+    <string name="minute">분</string>
+</resources>
