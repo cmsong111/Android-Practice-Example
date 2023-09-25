@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project7_2</string>
+    <string name="change_background">Change Background</string>
+    <string name="change_button">Change Button</string>
+
+    <string name="item_red">배경색 (빨강)</string>
+    <string name="item_green">배경색 (초록)</string>
+    <string name="item_blue">배경색 (파랑)</string>
+
+    <string name="item_rotate">버튼 45도 회전</string>
+    <string name="item_size">버튼 크기 2배 확대</string>
+</resources>
