@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project 7-3</string>
+    <string name="user_name">사용자 이름</string>
+    <string name="user_email">이메일</string>
+
+    <string name="dialog_start_button">여기를 클릭</string>
+
+    <string name="dialog_title">사용자 정보 입력</string>
+    <string name="dialog_ok_button">확인</string>
+    <string name="dialog_cancel_button">취소</string>
+
+    <string name="star_icon">★</string>
+</resources>
