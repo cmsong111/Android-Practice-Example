@@ -1,10 +1,11 @@
 package com.example.project_8_2;
 
+import static android.graphics.BitmapFactory.decodeFile;
+import static android.graphics.BitmapFactory.decodeResource;
+
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
-import android.graphics.Picture;
 import android.util.AttributeSet;
 import android.view.View;
 
@@ -22,11 +23,11 @@ public class MyPictureView extends View {
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
         if (imagePath != null) {
-            Bitmap bitmap = BitmapFactory.decodeFile(imagePath);
+            Bitmap bitmap = decodeFile(imagePath);
             canvas.drawBitmap(bitmap, 0, 0, null);
             bitmap.recycle();
         } else {
-            canvas.drawBitmap(BitmapFactory.decodeResource(getResources(), R.drawable.not_fount), 0, 0, null);
+            canvas.drawBitmap(decodeResource(getResources(), R.drawable.not_fount), 0, 0, null);
         }
     }
 }
