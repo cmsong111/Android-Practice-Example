@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project_8-2</string>
+    <string name="btn_prev">이전</string>
+    <string name="btn_next">다음</string>
+</resources>
