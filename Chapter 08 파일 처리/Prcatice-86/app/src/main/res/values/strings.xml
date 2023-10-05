@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">나의 일기장</string>
+    <string name="edit">수정</string>
+    <string name="save">저장</string>
+</resources>
