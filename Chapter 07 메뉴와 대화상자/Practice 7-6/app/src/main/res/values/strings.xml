@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project_7-6</string>
+    <string name="dog">강아지</string>
+    <string name="cat">고양이</string>
+    <string name="rabbit">토끼</string>
+    <string name="horse">말</string>
+    <string name="show_button">그림 보기</string>
+</resources>
