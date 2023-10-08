@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Example_10-20</string>
+    <string name="btn_tell">전화 걸기</string>
+    <string name="btn_web">홈페이지 열기</string>
+    <string name="btn_search">검색하기</string>
+    <string name="btn_map">지도 보기</string>
+    <string name="btn_text">문자 보내기</string>
+    <string name="btn_photo">사진찍기</string>
+</resources>
