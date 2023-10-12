@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">연습문제 10-5</string>
+    <string name="new_page">새 화면 열기</string>
+    <string name="back">돌아가기</string>
+</resources>
