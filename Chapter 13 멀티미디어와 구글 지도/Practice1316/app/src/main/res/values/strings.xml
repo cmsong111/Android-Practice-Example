@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice 13-16</string>
+    <string name="music_title">타이틀 명</string>
+    <string name="artist">아티스트 명</string>
+    <string name="duration">재생 시간</string>
+
+    <string name="play">재생</string>
+    <string name="stop">정지</string>
+</resources>
