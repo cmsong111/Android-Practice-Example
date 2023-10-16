@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thread를 활용한 MP3 플레이어</string>
+    <string name="music_title">타이틀 명</string>
+    <string name="artist">아티스트 명</string>
+    <string name="duration">재생 시간</string>
+
+    <string name="play">재생</string>
+    <string name="pause">일시정지</string>
+    <string name="next">다음</string>
+    <string name="previous">이전</string>
+</resources>
