@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">연습문제 14-4</string>
+    <string name="music_service_start">음악서비스 시작</string>
+    <string name="music_service_stop">음악서비스 중지</string>
+</resources>
